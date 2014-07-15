@@ -1,0 +1,32 @@
+﻿body {
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+
+.MHI {
+	fill: green;
+}
+
+.CLI {
+	fill: blue;
+}
+
+.HOSP {
+	fill: cadetblue;
+}
+
+.PHR {
+	fill: chartreuse;
+}
+
+.HOS {
+	fill: saddlebrown;
+}
+
+.SCY {
+	fill: crimson;
+}
+
+.URG {
+	fill: purple;
+}
